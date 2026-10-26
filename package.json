@@ -1,0 +1,9 @@
+{
+  "name": "telegram-digital-store-bot",
+  "version": "1.0.0",
+  "description": "Telegram digital store with FamGateway top-ups, product delivery and admin controls",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "node-telegram-bot-api": "^0.66.0" },
+  "engines": { "node": ">=18" }
+}
